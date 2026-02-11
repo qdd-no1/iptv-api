@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-11 19:02:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-12 06:38:43,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1192,6 +1192,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=601a89fb3153d9b57dba285df9852f63&id=CE
 广东新闻,https://hk.188766.xyz/?migutoken=66ff59d7af7bf5587201ca4c33a20a0e&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=a799e1c6a775cddd7361d8b3627b2efa&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=960402fc40ed0f305e48aea0d25c7e5f&id=gd_gdxw&type=sz
+广东新闻,https://hk.188766.xyz/?migutoken=a02547d2f7b70c5f9d87f2598e20c3f5&id=gd_gdxw&type=sz
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=99952a1412cd0baa384ce93dff83bdbd&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -1213,6 +1214,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=601a89fb3153d9b57dba285df9852f63&id=CE
 广东卫视,https://migu.wsnw.dpdns.org/608831231
 广东卫视,https://migu720.xbaicai.qzz.io/migu720p.php?id=608831231
 广东卫视,https://migu.188766.xyz/?migutoken=480a7eece9c056f4a0d9955025d8d5ca&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+广东卫视,https://migu.188766.xyz/?migutoken=66bc3938928ae1fc860d8ef678ac44c0&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东民生,https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
@@ -1342,6 +1344,15 @@ CETV-4,https://migu.188766.xyz/?migutoken=601a89fb3153d9b57dba285df9852f63&id=CE
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
 
 ☘️山东频道,#genre#
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+山东新闻,http://ls.qingting.fm/live/60180.m3u8
+山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-4.m3u8
+山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-6.m3u8
+山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-1.m3u8
+山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-2.m3u8
+山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-3.m3u8
+山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-7.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-7.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-4.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-5.m3u8
@@ -1350,10 +1361,4 @@ CETV-4,https://migu.188766.xyz/?migutoken=601a89fb3153d9b57dba285df9852f63&id=CE
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-6.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-1.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-8.m3u8
-山东新闻,http://ls.qingting.fm/live/60180.m3u8
-山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-4.m3u8
-山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-6.m3u8
-山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-1.m3u8
-山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-2.m3u8
-山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-3.m3u8
-山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-7.m3u8
+汶上,https://migu720.xbaicai.qzz.io/wenshang.php

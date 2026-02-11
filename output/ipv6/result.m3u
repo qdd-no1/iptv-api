@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/qdd-no1/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-11 19:02:08
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-12 06:38:43
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -2373,6 +2373,8 @@ https://hk.188766.xyz/?migutoken=66ff59d7af7bf5587201ca4c33a20a0e&id=gd_gdxw&typ
 https://hk.188766.xyz/?migutoken=a799e1c6a775cddd7361d8b3627b2efa&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="广东新闻.png" group-title="☘️广东频道",广东新闻
 https://hk.188766.xyz/?migutoken=960402fc40ed0f305e48aea0d25c7e5f&id=gd_gdxw&type=sz
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="广东新闻.png" group-title="☘️广东频道",广东新闻
+https://hk.188766.xyz/?migutoken=a02547d2f7b70c5f9d87f2598e20c3f5&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="☘️广东频道",广东卫视
 http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="☘️广东频道",广东卫视
@@ -2415,6 +2417,8 @@ https://migu.wsnw.dpdns.org/608831231
 https://migu720.xbaicai.qzz.io/migu720p.php?id=608831231
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="☘️广东频道",广东卫视
 https://migu.188766.xyz/?migutoken=480a7eece9c056f4a0d9955025d8d5ca&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="☘️广东频道",广东卫视
+https://migu.188766.xyz/?migutoken=66bc3938928ae1fc860d8ef678ac44c0&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="广东民生.png" group-title="☘️广东频道",广东民生
 https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="广东民生.png" group-title="☘️广东频道",广东民生
@@ -2669,6 +2673,24 @@ https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
 https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
 #EXTINF:-1 tvg-name="汕头经济" tvg-logo="汕头经济.png" group-title="☘️广东频道",汕头经济
 https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="☘️山东频道",山东卫视
+http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="☘️山东频道",山东卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
+http://ls.qingting.fm/live/60180.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-4.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-6.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-1.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-2.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-3.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
+https://stream1.freetv.fun/shan-dong-xin-wen-7.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="山东少儿.png" group-title="☘️山东频道",山东少儿
 https://stream1.freetv.fun/shan-dong-shao-er-7.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="山东少儿.png" group-title="☘️山东频道",山东少儿
@@ -2685,17 +2707,5 @@ https://stream1.freetv.fun/shan-dong-shao-er-6.m3u8
 https://stream1.freetv.fun/shan-dong-shao-er-1.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="山东少儿.png" group-title="☘️山东频道",山东少儿
 https://stream1.freetv.fun/shan-dong-shao-er-8.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
-http://ls.qingting.fm/live/60180.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
-https://stream1.freetv.fun/shan-dong-xin-wen-4.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
-https://stream1.freetv.fun/shan-dong-xin-wen-6.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
-https://stream1.freetv.fun/shan-dong-xin-wen-1.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
-https://stream1.freetv.fun/shan-dong-xin-wen-2.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
-https://stream1.freetv.fun/shan-dong-xin-wen-3.m3u8
-#EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
-https://stream1.freetv.fun/shan-dong-xin-wen-7.m3u8
+#EXTINF:-1 tvg-name="汶上" tvg-logo="汶上.png" group-title="☘️山东频道",汶上
+https://migu720.xbaicai.qzz.io/wenshang.php
