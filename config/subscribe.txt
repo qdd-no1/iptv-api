@@ -1,12 +1,13 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://raw.bgithub.xyz/qdd-no1/iptv-api/refs/heads/master/JGj7RMGy.txt
 https://raw.bgithub.xyz/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.bgithub.xyz/iptv-org/iptv/master/streams/cn.m3u
 https://raw.bgithub.xyz/suxuang/myIPTV/main/ipv4.m3u
 https://raw.bgithub.xyz/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.bgithub.xyz/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.bgithub.xyz/qdd-no1/iptv-api/refs/heads/master/JGj7RMGy.txt
+
 
 
 [WHITELIST]
