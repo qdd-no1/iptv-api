@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-12 18:57:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-13 06:42:04,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -20,17 +20,6 @@ CCTV-1,https://migu.wsnw.dpdns.org/608807420
 CCTV-1,https://migu720.xbaicai.qzz.io/migu720p.php?id=608807420
 CCTV-1,https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=5559462299&sign=5a4d41983c091f12c9e39c5f14a783b74cc6e2b6a2b1416a1c3f004541e67eb6bfc38d4bed0fc826908edec5114d7f4f4b45f61b7d93eed686ef4be1fa540ea8eb3f8bb082208b1ad0854d13e7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-1,https://migu.188766.xyz/?migutoken=3c1923f7bd54d01d9458aa6063df62ef&id=CCTV1&type=yy
-CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601211138448FA9B998510F771A8747-9PrRHC&unique_id=stream-695106910011261612_684_flv&wsSecret=258653137fb1ed334218de18f528adaa&wsTime=69704a44
-CCTV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
-CCTV-2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-CCTV-2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
-CCTV-2,https://t.freetv.fun/live/cctv2-cai-jing-3.php
-CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150
-CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&unique_id=stream-695106910011261612_684_flv&wsSecret=bbf37003c0e4945f50c24773724b6ae3&wsTime=69853d78
-CCTV-2,https://migu.wsnw.dpdns.org/631780532
-CCTV-2,https://migu720.xbaicai.qzz.io/migu720p.php?id=631780532
-CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202601211138448FA9B998510F771A8747-9PrRHC&unique_id=stream-695106910011261612_684_flv&wsSecret=258653137fb1ed334218de18f528adaa&wsTime=69704a44
 CCTV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
@@ -1252,6 +1241,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=3a6ec1f46229c11a46f7e3142295c44e&id=CE
 广东新闻,https://hk.188766.xyz/?migutoken=a799e1c6a775cddd7361d8b3627b2efa&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=960402fc40ed0f305e48aea0d25c7e5f&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=a02547d2f7b70c5f9d87f2598e20c3f5&id=gd_gdxw&type=sz
+广东新闻,https://hk.188766.xyz/?migutoken=feaf9a977e374ac83f4c73ac0db4f7c6&id=gd_gdxw&type=sz
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=99952a1412cd0baa384ce93dff83bdbd&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -1274,6 +1264,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=3a6ec1f46229c11a46f7e3142295c44e&id=CE
 广东卫视,https://migu720.xbaicai.qzz.io/migu720p.php?id=608831231
 广东卫视,https://migu.188766.xyz/?migutoken=480a7eece9c056f4a0d9955025d8d5ca&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,https://migu.188766.xyz/?migutoken=66bc3938928ae1fc860d8ef678ac44c0&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+广东卫视,https://migu.188766.xyz/?migutoken=98c8ff4849fb52d5d5ea53ec1e8373ea&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东民生,https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
@@ -1407,6 +1398,8 @@ CETV-4,https://migu.188766.xyz/?migutoken=3a6ec1f46229c11a46f7e3142295c44e&id=CE
 ☘️山东频道,#genre#
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 山东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 山东新闻,http://ls.qingting.fm/live/60180.m3u8
 山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-4.m3u8
 山东新闻,https://stream1.freetv.fun/shan-dong-xin-wen-6.m3u8
