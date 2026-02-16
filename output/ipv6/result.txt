@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-16 19:02:43,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-17 06:38:05,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1443,6 +1443,7 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广东新闻,https://hk.188766.xyz/?migutoken=597afc6f04c3f42bbe8c1a926a233aa2&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=4d138ccaf74aaece9315b1d314434267&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=4e1770b052952232907cfb03f65c5587&id=gd_gdxw&type=sz
+广东新闻,https://hk.188766.xyz/?migutoken=727766e3d6238060b89a0b1959d139e7&id=gd_gdxw&type=sz
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=99952a1412cd0baa384ce93dff83bdbd&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -1471,6 +1472,7 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-5.php
 广东卫视,https://migu.188766.xyz/?migutoken=945be6e5201580ee152eb865d725ddcf&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/gdwshd265/54/20200407/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260215080207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260215080207&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=083073f5df8c9b4a660f970962677862&sv=10004&ct=android
+广东卫视,https://migu.188766.xyz/?migutoken=338db1305b54f2cb0f0fe675d45ad725&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东民生,https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
@@ -1660,6 +1662,7 @@ CETV-4,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=202510260801019bd2e5ad2269402db1f8eed1067a0adc&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20251026080101&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20251026080101&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e3cb945f8f4a023db7f9184295501750&ddCalcu=0e53e7c21b909054559f284f841a90f273bd
 山东教育,https://migu.188766.xyz/?migutoken=765fea56a049df82cd89bac76a59b163&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
 山东教育,https://migu.188766.xyz/?migutoken=82ef5302f80f8dbb58b6f6287c5cc983&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
+山东教育,https://migu.188766.xyz/?migutoken=a23f9efd0cb31645e07b56c007b94fe4&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
 山东居家,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 任城新闻,https://migu720.xbaicai.qzz.io/video_extractor.php?id=rcxw
 任城影视,https://migu720.xbaicai.qzz.io/video_extractor.php?id=rcys
