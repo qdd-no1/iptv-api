@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/qdd-no1/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-03-20 18:45:39
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-03-21 06:35:28
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -3841,6 +3841,8 @@ https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubTy
 https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="☘️山东频道",山东卫视
 https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="山东卫视.png" group-title="☘️山东频道",山东卫视
+https://t.freetv.fun/live/shan-dong-wei-shi-6.php
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
 http://ls.qingting.fm/live/60180.m3u8
 #EXTINF:-1 tvg-name="山东新闻" tvg-logo="山东新闻.png" group-title="☘️山东频道",山东新闻
