@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-25 18:56:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-26 06:43:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1644,6 +1644,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广东珠江,https://hk.188766.xyz/?migutoken=d4b9de404b2118b7847f85f88adc016f&id=gd_gdzj&type=sz
 广东珠江,https://hk.188766.xyz/?migutoken=ba690a5cc89836c39b47f7156558b06d&id=gd_gdzj&type=sz
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-1.m3u8
+广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-6.php
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
@@ -1735,6 +1736,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广东新闻,https://hk.188766.xyz/?migutoken=727766e3d6238060b89a0b1959d139e7&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=faa6a4c6240974129eabe7d11d774ccb&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=6bc6b1171b7dccc1f654e93066900513&id=gd_gdxw&type=sz
+广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-1.php
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=99952a1412cd0baa384ce93dff83bdbd&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -1813,6 +1815,7 @@ CETV-4,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 广东民生,https://hk.188766.xyz/?migutoken=b97671a5d69c2e763ee56a94845a1a76&id=gd_gdms&type=sz
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-3.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-4.m3u8
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-3.php
 大湾区卫视,https://migu.188766.xyz/?migutoken=1e0cbd66db28b7f55f99f02707b40fe7&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=bad0a45eea94649f2e7f1b35e1d98d034b874a02984a76abb21e4537dee28f974e6da241dc7705109722be71c8b1302302b51cd4cb06c69ca55fdcf7279d415e0a0fce7c492b6842956ab34fcc
