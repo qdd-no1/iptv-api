@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-27 06:36:58,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-27 18:59:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -248,10 +248,6 @@ CCTV-6,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cctv6hd265/54/20200407
 CCTV-6,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cctv6hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260301080203&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=218.28.233.106&SecurityKey=20260301080203&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=450822c2bf3b7b091939ca39090306ad&sv=10004&ct=android
 CCTV-6,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/cctv6hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260302080221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=218.28.233.106&SecurityKey=20260302080221&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2a48d82d522ba32e0ba588120a91c988&sv=10004&ct=android
 CCTV-6,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/cctv6hd265/54/20200407/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260303080204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=218.28.233.106&SecurityKey=20260303080204&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8d277c29dd93ce0da529ae69f8f868f0&sv=10004&ct=android
-CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV-6,https://migu.188766.xyz/?migutoken=bac5b5f5bcc4b499ebb109597a4e3883&id=CCTV6&type=yy
-CCTV-6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=5559462299&sign=82c06b06af424f8317061aa27fea150139c4e4accce2caedc06ce5725bc5f04d1b265c3c5a4da9e28e4f539bc47509fca7b48b2d1a83c75ec0772dc23e4229305d402bfcabfc3384326869f641&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-CCTV-6,https://hls-gateway.vpstv.net/streams/476890.m3u8
 CCTV-7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-7,https://migu.188766.xyz/?migutoken=c9f30b0f5777fddb1b31bb1b7c540711&id=CCTV7&type=yy
 CCTV-7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
