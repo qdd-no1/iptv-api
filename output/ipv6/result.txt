@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-25 18:51:22,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-26 06:43:05,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -383,6 +383,13 @@ CCTV-9,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/51/in
 CCTV-9,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260303080204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=218.28.233.106&SecurityKey=20260303080204&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=63801d9b3218b5c1a4d10332eb3fd739&sv=10004&ct=android
 CCTV-9,https://t.freetv.fun/live/cctv9-1.php
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
+CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV-9,https://migu.188766.xyz/?migutoken=e6ba43d799b0fbaf377be28384b3f769&id=CCTV9&type=yy
+CCTV-9,https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=5559462299&sign=f3c9be104c914a49cb6fab264973a6fd9ccc4c435b8d78256fb682415eefae8406e263dccf833b302b763acda6fe9b9d8defe180e12a8565bbcbf541960ab2aa271973e1533288e2251ef76971&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+CCTV-9,https://hls-gateway.vpstv.net/streams/476893.m3u8
+CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
+CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV-10,https://migu.188766.xyz/?migutoken=750e4d2ba7cbbedfcc5bce296611a893&id=CCTV10&type=yy
 CCTV-10,https://live.ottiptv.cc/mcp/cctv10.m3u8?userid=5559462299&sign=2498a7635967a6787823a4b656007a2bd5e2b2f454e8d631e17891a1495437906fab4f9606d23fbbfc49f84b87dd0a39219e9253f3544afa759dca5b111909377406d3f989b24079d97970bcd78b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
