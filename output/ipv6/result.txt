@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-11 07:34:00,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-11 22:09:30,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1335,6 +1335,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=70af9a7ff5d3b08e7a6e97e11d84e201&wsTime=1780106366
 河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=9a98245ffad0fa5d6b894a865d6e04fa&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260602070114&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=39.98.87.107&SecurityKey=20260602070114&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=234be6fdb0d44ffc3086bc34936ec636&ddCalcu=6233v64acbaeea663f9d4b30cdb4648f0f3c&sv=10004&ct=android
 河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=fb47efc975084c97a5bd8f15fe7b7861&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20260603070104&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=39.98.188.45&SecurityKey=20260603070104&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=502b7195fbbeea489436626f74a4a6b2&ddCalcu=25b0v62aaba47aa14975ff6b2b6e6e3a4498&sv=10004&ct=android
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a81f3daf4303e653f495ad023cb6e2a3&wsTime=1781143223
 吉林卫视,https://migu.188766.xyz/?migutoken=48138d201c5461e4a1db2dddc6c6582f&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 吉林卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 吉林卫视,https://migu.188766.xyz/?migutoken=1b2d024a36b22e3cd54e32d8ee87f335&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
