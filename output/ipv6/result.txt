@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-27 07:16:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-27 19:37:54,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1146,14 +1146,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=fd89ab05e5391e412a2087384e597b6a&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260603070106&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=39.98.63.22&SecurityKey=20260603070106&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4a7d411bec90e7c17acf5b2c19e5db0b&ddCalcu=b40avb7addy54ae1911bce2cb950fec7ac71&sv=10004&ct=android
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=de669e9bdd978a67733b66cfd04a457d&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260624062040&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=39.98.78.225&SecurityKey=20260624062040&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=605ab8fdf156a5a4fc3a12e54834a17c&ddCalcu=c670v15aaay4ba388f4d5fe12516aa35caf4&sv=10004&ct=android
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=09e637c55b1f4ad33546fa88f050590c&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260625062039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=39.98.82.147&SecurityKey=20260625062039&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4b00d3b44d247d5edcc5a21901817adc&ddCalcu=c4dbva0a70y1da831b04941d22a457cdc5de&sv=10004&ct=android
-黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-黑龙江卫视,https://hls-gateway.vpstv.net/streams/708854.m3u8
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
-黑龙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
-黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-1.php
-黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-10.php
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,https://hls-gateway.vpstv.net/streams/708854.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
