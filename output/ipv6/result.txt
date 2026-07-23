@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-23 19:59:07,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-24 07:04:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1860,6 +1860,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 三沙卫视,https://iptv.catvod.com/migu?id=961023778&token=42fcd3357639b6f0e40c93b06d81d256
 三沙卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/ssws/50/20251127/index.m3u8?msisdn=231b20d0109e440753308739b42d78a5&mdspid=&spid=600697&netType=0&sid=5910022307&pid=2028597139&timestamp=20260722062034&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961023778&ParentNodeID=-99&assertID=5910022307&client_ip=39.103.182.111&SecurityKey=20260722062034&promotionId=&mvid=5900006777&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4c14a02f82382b5d297ef95221cca025&ddCalcu=542cv01aa4xcaac0122f285293f8e27b952d&sv=10004&ct=android
 三沙卫视,https://iptv.catvod.com/migu?id=961023778&token=0c0c4a466e65f7b42cdd460d1cceb263
+三沙卫视,https://iptv.catvod.com/migu?id=961023778&token=093ea8dbd1e3fad640f1ef2dbb8914b7
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 天津卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 天津卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225972/main.m3u8
@@ -1929,6 +1930,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 广东珠江,https://iptv.catvod.com/gdtv?id=44&t=1783306791&tk=acup-R6eXWOgeSLhI6Hu3gJWlKR2nFVhlb5vbwzIdWc
 广东珠江,https://iptv.catvod.com/migu?id=639731952&token=7fe56a293a24bd3f16f0f171f2330e06
 广东珠江,https://iptv.catvod.com/migu?id=639731952&token=70dd32c8f3ff5f6d50e0b1fe91d6986b
+广东珠江,https://iptv.catvod.com/migu?id=639731952&token=198f4a3fffb2793ebd931ee5648c2241
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
@@ -2066,6 +2068,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 广东卫视,https://iptv.catvod.com/gdtv?id=43&t=1783306791&tk=lM52nLCEjeWOBSKEn3WmrwfVuUQPIkiwgbgFynZ9PFM
 广东卫视,https://iptv.catvod.com/migu?id=608831231&token=cdafb6228046eb07a76187d59e4c256d
 广东卫视,https://iptv.catvod.com/migu?id=608831231&token=a7dc005449ffd39e165f84d6c2f8ae2e
+广东卫视,https://iptv.catvod.com/migu?id=608831231&token=31a3ea8cd418d6d5ae4bb1c28f415b3f
 广东民生,https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
@@ -2281,6 +2284,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 山东教育,https://migu.188766.xyz/?migutoken=02560e4189a2c6932a909f901a9696b4&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=c45add0b117410a212401ecea0b71df6
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=cb79b390056a6bbef5521541d10629eb
+山东教育,https://iptv.catvod.com/migu?id=609154353&token=8e5b0ba52239ae45e2eee0436fe0f267
+山东教育,https://live.chinacert.cftest5.cn/cnmg/live/609154353
 山东居家,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 任城新闻,https://migu720.xbaicai.qzz.io/video_extractor.php?id=rcxw
 任城影视,https://migu720.xbaicai.qzz.io/video_extractor.php?id=rcys
