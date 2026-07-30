@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-30 20:04:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-31 07:16:36,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -2156,6 +2156,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 广东卫视,https://iptv.catvod.com/migu?id=608831231&token=48f6702da00e9c37d5af874c509f46bf
 广东卫视,https://iptv.catvod.com/migu?id=608831231&token=90bc42781ac1b0590441b5f258af3710
 广东卫视,https://iptv.catvod.com/migu?id=608831231&token=af464be4890e0f4f6625b09a760c5f57
+广东卫视,https://iptv.catvod.com/migu?id=608831231&token=05e2c9de050fb10cb5d2aba657a27d0b
 广东民生,https://hk.188766.xyz/?migutoken=4dbbf49e9ca87c8ef3fac5c7df4efdfa&id=gd_gdms&type=sz
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
@@ -2380,6 +2381,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=e98f489d98bbaa23c0defcb85fe388ef
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=4e0f100378b25c7df79cbde0696ad38f
 山东教育,https://iptv.catvod.com/migu?id=609154353&token=19f06fdb72c46c9561a3af855f4bf049
+山东教育,https://iptv.catvod.com/migu?id=609154353&token=2f280b28343e0541f8bdcb6b6c7d36ec
 山东居家,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 任城新闻,https://migu720.xbaicai.qzz.io/video_extractor.php?id=rcxw
 任城影视,https://migu720.xbaicai.qzz.io/video_extractor.php?id=rcys
