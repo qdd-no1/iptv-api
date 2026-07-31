@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/qdd-no1/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-07-31 07:16:36
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-07-31 20:14:33
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -161,6 +161,8 @@ https://iptv.catvod.com/migu?id=631780532&token=5cccc637cd0b5233802a058619d2c74c
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=ac97ce19c77376a1e42e34f4168b9a0a&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260730062049&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=39.103.188.159&SecurityKey=20260730062049&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d382ebce0c6a3885e37052fd2cd09593&ddCalcu=3d93v58a92z0eadbcc2ed0fc265a037838e5&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="📺央视频道",CCTV-2
 https://iptv.catvod.com/migu?id=631780532&token=f6e46dbd78e7e3a0a4e540a7a006516e
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="CCTV2.png" group-title="📺央视频道",CCTV-2
+https://iptv.catvod.com/migu?id=631780532&token=689bb76e79dbd4fa4c094d712e37e3dd
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="📺央视频道",CCTV-3
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="CCTV3.png" group-title="📺央视频道",CCTV-3
@@ -527,6 +529,8 @@ https://iptv.catvod.com/migu?id=641886773&token=2554beea5a61b4c5c060a0947f996ce5
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=c7b4dee37985b529cd3e6dd0fe3bd045&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260730062051&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=39.103.182.111&SecurityKey=20260730062051&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d4bdae2b5851fd8d4137783a238c0e13&ddCalcu=3d14veba0dxcaa8e322ba53885717f3d184d&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="CCTV5+.png" group-title="📺央视频道",CCTV-5+
 https://iptv.catvod.com/migu?id=641886773&token=474d649a03dcb97ea153fba2ed040a75
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="CCTV5+.png" group-title="📺央视频道",CCTV-5+
+https://iptv.catvod.com/migu?id=641886773&token=55cb65943b24df1485717ad002c3973d
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="📺央视频道",CCTV-6
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -2061,6 +2065,8 @@ https://iptv.catvod.com/migu?id=608831231&token=90bc42781ac1b0590441b5f258af3710
 https://iptv.catvod.com/migu?id=608831231&token=af464be4890e0f4f6625b09a760c5f57
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="📡卫视频道",广东卫视
 https://iptv.catvod.com/migu?id=608831231&token=05e2c9de050fb10cb5d2aba657a27d0b
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="📡卫视频道",广东卫视
+https://iptv.catvod.com/migu?id=608831231&token=1f85032dfe85a55de59157f88a0048bb
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="香港卫视.png" group-title="📡卫视频道",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="香港卫视.png" group-title="📡卫视频道",香港卫视
@@ -2487,6 +2493,8 @@ https://iptv.catvod.com/migu?id=738906901&token=83c649846d319cb5ae67dfd271706912
 http://gslbmgsplive.miguvideo.com/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=ba5561e5b62f733d18464f2a5eca4c1f&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260730062107&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=39.103.182.111&SecurityKey=20260730062107&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3c063d6f0e9bd97a45e6b1d813963f06&ddCalcu=630cvf0a36l63a9d361f80de19bb6de9574a&sv=10004&ct=android
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 https://iptv.catvod.com/migu?id=738906901&token=19ad33ade5f2eeecaa9c611be223987e
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+https://iptv.catvod.com/migu?id=738906901&token=bf378072902c4e3a0d913ed5039d679d
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视.png" group-title="📡卫视频道",安徽卫视
@@ -2551,6 +2559,8 @@ https://iptv.catvod.com/migu?id=738910914&token=84f8885058519698dc66fefd39404744
 http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=38d1ab5ae687ac7a2bce207eb0c3c831&mdspid=&spid=600697&netType=0&sid=5910022305&pid=2028597139&timestamp=20260730062105&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910914&ParentNodeID=-99&assertID=5910022305&client_ip=39.103.188.159&SecurityKey=20260730062105&promotionId=&mvid=5900004329&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=abcccd797e48c5c54efd4306bfb7ec5d&ddCalcu=da5bvccaecl7cabdf7b9670e3448dcf5ec45&sv=10004&ct=android
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="📡卫视频道",重庆卫视
 https://iptv.catvod.com/migu?id=738910914&token=351b592f6206c511d4942bb0902358ea
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="📡卫视频道",重庆卫视
+https://iptv.catvod.com/migu?id=738910914&token=e74190f248bda8c6965ae9a32c3f7a7f
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
 http://iptv.huuc.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
@@ -2689,6 +2699,8 @@ https://iptv.catvod.com/migu?id=849116810&token=1140709614d600392957244e04c7193b
 https://iptv.catvod.com/migu?id=849116810&token=d54b68e0132f584528f66363f4ca4110
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
 https://iptv.catvod.com/migu?id=849116810&token=7da6bd811b8ceb8594f424fe96240462
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
+https://iptv.catvod.com/migu?id=849116810&token=7e6dff374efd7540d2b34d7a984fe063
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
@@ -2873,6 +2885,8 @@ https://iptv.catvod.com/migu?id=962042070&token=2c758e5e670802233575db1a416e6aa6
 http://gslbmgsplive.miguvideo.com/migu/kailu/hbws/51/20251225/index.m3u8?msisdn=b542503eb0525945df0b3c184f60cbee&mdspid=&spid=600725&netType=0&sid=5910022316&pid=2028597139&timestamp=20260730062102&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962042070&ParentNodeID=-99&assertID=5910022316&client_ip=39.103.182.111&SecurityKey=20260730062102&promotionId=&mvid=5900006782&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=526e80cf211bf92d58b0840d0aec5481&ddCalcu=1582v46a5ecc8ae0ac0fd201418b0fb9825d&sv=10004&ct=android
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
 https://iptv.catvod.com/migu?id=962042070&token=940536c1c8d66ac5475d79deb8fe37fc
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
+https://iptv.catvod.com/migu?id=962042070&token=1c1c9a9919bb084082a94031f1d9fd13
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
 https://migu.188766.xyz/?migutoken=d591a6e8d2acf8ed838727a07dd527e7&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -3521,6 +3535,8 @@ https://iptv.catvod.com/migu?id=738910535&token=243e3e42027d42beac4df30d11710004
 http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=3d50a3da6f0683d2ca0981a1eae4cd50&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20260730062105&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=39.103.188.159&SecurityKey=20260730062105&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9eeb948853ec0f44e38e8881ae077519&ddCalcu=991ev5ea7bz79a04e8a815838e8ce08f34e4&sv=10004&ct=android
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 https://iptv.catvod.com/migu?id=738910535&token=61bc66c4edc19bbdec34c84ada626c6d
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+https://iptv.catvod.com/migu?id=738910535&token=475b18cac103aeca571554f0b0760811
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="📡卫视频道",青海卫视
 https://migu.188766.xyz/?migutoken=3f0672c2bb6efd7075794a5898e3b177&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="📡卫视频道",青海卫视
@@ -4465,6 +4481,8 @@ https://iptv.catvod.com/migu?id=608917627&token=7294f67bb9776cf520ac18680cb9a7da
 https://iptv.catvod.com/migu?id=608917627&token=a4dae7003589713cee33c9c19c9d5e6e
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
 https://iptv.catvod.com/migu?id=608917627&token=9fe1c69571fbcaf23b64aa88728a08e0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
+https://iptv.catvod.com/migu?id=608917627&token=36b5ea90022856e71c04ae3e43d1c5c1
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="广州综合.png" group-title="☘️广东频道",广州综合
 http://r.jdshipin.com/iR6Gq
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="广州综合.png" group-title="☘️广东频道",广州综合
@@ -4749,6 +4767,8 @@ https://iptv.catvod.com/migu?id=609154353&token=4e0f100378b25c7df79cbde0696ad38f
 https://iptv.catvod.com/migu?id=609154353&token=19f06fdb72c46c9561a3af855f4bf049
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="山东教育.png" group-title="☘️山东频道",山东教育
 https://iptv.catvod.com/migu?id=609154353&token=2f280b28343e0541f8bdcb6b6c7d36ec
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="山东教育.png" group-title="☘️山东频道",山东教育
+https://iptv.catvod.com/migu?id=609154353&token=c1bf0d244adfeed4b5cdc7ded14d8127
 #EXTINF:-1 tvg-name="山东居家" tvg-logo="山东居家.png" group-title="☘️山东频道",山东居家
 http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 #EXTINF:-1 tvg-name="任城新闻" tvg-logo="任城新闻.png" group-title="☘️山东频道",任城新闻
