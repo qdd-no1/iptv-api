@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-17 18:47:52,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-18 06:39:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1923,18 +1923,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 陕西卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=3305f9524aa4896d9a8ccdc75f1320ef&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260724062033&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=39.103.188.159&SecurityKey=20260724062033&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5e6688ccf259048dbf8def39c2caa785&ddCalcu=558ev76aa6ka8ac82ccc9f32f5e9d084f8bd&sv=10004&ct=android
 陕西卫视,https://iptv.catvod.com/migu?id=738910838&token=1c855368ea412af33546f7aa43597eeb
 陕西卫视,https://iptv.catvod.com/migu?id=738910838&token=d7628056d82b37657314796830e66abe
-四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
-四川卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-10.php
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-5.m3u8
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-11.php
-四川卫视,https://v.iill.top/api/scws/index.m3u8
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-1.m3u8
-四川卫视,http://x1x.bid:5146/rtp/239.3.1.29:8288
-四川卫视,http://b.xiongnas.top:8888/rtp/239.3.1.29:8288
-四川卫视,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288
-四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan4k
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.php
