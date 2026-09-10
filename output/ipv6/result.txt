@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-10 08:00:43,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-10 22:23:06,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1390,6 +1390,27 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 东南卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/dongnanws/51/20230724/01.m3u8?msisdn=baf32d6f446c0bdc6de2c962534ddac8&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260808065524&Channel_ID=0116_2600034600-99000-201600010049433&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=36.155.23.155&SecurityKey=20260808065524&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=564dac5e410cd465f0383e47995a8647&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=de12a0386ecd8b7dddce7e43d2e7a225
 东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810
 东南卫视,http://fn.gcl.de5.net:5908/gsh950428/849116810
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+东南卫视,http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8
+东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-1.php
+东南卫视,https://migu.wsnw.dpdns.org/849116810
+东南卫视,https://migu720.xbaicai.qzz.io/migu720p.php?id=849116810
+东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+东南卫视,http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260215080208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=218.28.233.106&SecurityKey=20260215080208&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=be589ab04f4528143cd6017ef45f6e82&sv=10004&ct=android
+东南卫视,http://mgsp-zy2.live.miguvideo.com:8088/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260216080226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=218.28.233.106&SecurityKey=20260216080226&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3874f80e210c081938c948f65ea18ec5&sv=10004&ct=android
+东南卫视,https://t.freetv.fun/live/dong-nan-wei-shi-6.php
+东南卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=94d65b34978e297408147ad4c2c6f81b&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20260624062041&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=39.98.78.225&SecurityKey=20260624062041&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3a5540bb775b4120c9afe8be19f8ac6c&ddCalcu=c36avc5aa5k84af09b1be7b785ebf4a192c0&sv=10004&ct=android
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=dc2c9aba91bb2cdc324da4ef90da79e5
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=d66b355019a990d54507dcc029501194
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=3bee5c5a117a7180ee33550aa7c78259
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=c192f72544ad0f2e344f334a25289b89
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=1140709614d600392957244e04c7193b
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=d54b68e0132f584528f66363f4ca4110
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=7da6bd811b8ceb8594f424fe96240462
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=7e6dff374efd7540d2b34d7a984fe063
+东南卫视,https://iptv.catvod.com/migu?id=849116810&token=eb9cfab122859763bc1ec22c97248a1a
 甘肃卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi.php
@@ -1941,6 +1962,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 四川卫视,http://b.xiongnas.top:8888/rtp/239.3.1.29:8288
 四川卫视,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288
 四川卫视,https://live.chinacert.cftest5.cn/zgst/live/sichuan4k
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-7.m3u8
+深圳卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-9.php
+深圳卫视,https://gd202.tv1288.xyz/tsfile/live/1042_1.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-3.m3u8
