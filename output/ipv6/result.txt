@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-26 03:57:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-11-26 12:06:15,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -2324,6 +2324,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 广州综合,https://migu720.xbaicai.qzz.io/gztv.php?id=zhonghe
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.m3u8
 广州综合,https://t.freetv.fun/live/yan-zhou-zong-he.php
+广州综合,https://168.sryze.cc/163189/gzxw
+广州综合,https://168.sryze.cc/163189/gzzh
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-6.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-15.ctv
 广州影视,https://stream1.freetv.fun/yan-zhou-ying-shi-7.ctv
